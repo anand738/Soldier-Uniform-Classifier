@@ -20,7 +20,6 @@ Soldier-uniform-classifier/
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
 ```
-
 
 ## Getting Started
 
@@ -28,8 +27,8 @@ Soldier-uniform-classifier/
 
 Ensure you have the following installed:
 
-- Python 3.6 or higher
-- pip package manager
+- Python 3.6 or higher
+- pip package manager
 
 ### Installation
 
@@ -39,15 +38,13 @@ Ensure you have the following installed:
    git clone https://github.com/anand738/Soldier-uniform-classifier.git
    cd Soldier-uniform-classifier
    ```
-
 
 2. **Install the required packages:**
 
    ```bash
    pip install -r requirements.txt
    ```
-
-
+   
 ## Usage
 
 ### Training the Model
@@ -71,7 +68,6 @@ Ensure you have the following installed:
    ```bash
    Streamlit run app.py
    ```
-
 
 2. **Access the application:**
 
