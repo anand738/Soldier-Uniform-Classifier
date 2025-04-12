@@ -14,7 +14,7 @@ A deep learning-based application for classifying soldier uniforms using compute
 ```
 
 Soldier-uniform-classifier/
-├── app.py                 # Flask web application
+├── app.py                 # Streamlit web application
 ├── model.ipynb            # Jupyter notebook for model training
 ├── rename.ipynb           # Jupyter notebook for data preprocessing
 ├── requirements.txt       # Python dependencies
@@ -63,7 +63,7 @@ Ensure you have the following installed:
 
 ### Running the Web Application
 
-1. **Start the Flask app:**
+1. **Start the Streamlit app:**
 
    ```bash
    Streamlit run app.py
